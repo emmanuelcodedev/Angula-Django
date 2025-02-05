@@ -1,0 +1,22 @@
+# Ignorar dependencias de Node.js
+node_modules/
+
+# Ignorar archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Base de datos SQLite
+*.sqlite3
+
+# Entorno virtual de Python
+venv/
+.env/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de sistema en Windows y macOS
+Thumbs.db
+.DS_Store
